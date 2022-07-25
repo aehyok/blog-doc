@@ -1,0 +1,1 @@
+import{_ as l,o as i,c as e,a as r}from"./app.944e1b86.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"daily/2022-01.md","lastUpdated":1658721903000}'),t={name:"daily/2022-01.md"},o=r("",1),n=[o];function a(u,c,s,p,f,h){return i(),e("div",null,n)}var d=l(t,[["render",a]]);export{m as __pageData,d as default};
