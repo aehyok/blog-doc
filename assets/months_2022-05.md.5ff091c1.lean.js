@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r,a as l}from"./app.96d02e2c.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"months/2022-05.md","lastUpdated":1658713862000}'),n={name:"months/2022-05.md"},o=l("",1),i=[o];function a(p,s,u,h,c,m){return t(),r("div",null,i)}var g=e(n,[["render",a]]);export{_ as __pageData,g as default};
